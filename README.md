@@ -12,7 +12,7 @@ git clone https://github.com/Everraa/test-automation-task-nord.git
 ## Install Dependencies
 npm install
 
-## Install Playwright Browsers
+## Install Playwright Browsers if needed
 npx playwright install
 
 ## To run Tests in: 
